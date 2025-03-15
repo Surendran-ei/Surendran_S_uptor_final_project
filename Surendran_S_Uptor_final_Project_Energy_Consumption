@@ -1,0 +1,19 @@
+
+Day (1-365) → The day number in the year
+
+Temperature (°C) → Daily average temperature (ranging from -10 to 40 degrees Celsius)
+
+Humidity (%) → Daily average humidity level (ranging from 0 to 100)
+
+Wind Speed (km/h) → Daily average wind speed (ranging from 0 to 50 km/h)
+
+Building Type → 0: Residential, 1: Commercial, 2: Industrial
+
+Number of Employees → For commercial and industrial buildings (ranging from 0 to 1000)
+
+Holiday (0 or 1) → 1 means a public holiday, 0 means not a holiday
+
+Daily Electricity Consumption (kWh) → The main target variable that determines total consumption
+
+
+
